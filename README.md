@@ -1,2 +1,2 @@
 # Basic Personal Portfolio
-This is a sample personal portfolio site built with HTML and CSS. For a version including bootstrap framework and functionality, please see the repository for Bootstrap Portfolio. For the updated version of my personal site, please see the repository for Updated Personal Portfolio!
+This is a sample personal portfolio site built with HTML and CSS. Includes about me, sample portfolio, and contact page. For a version including bootstrap framework and functionality, please see the repository for Bootstrap Portfolio. For a version using media queries, please see Responsive Portfolio. For the newest updated version of my personal site, please see the repository for Updated Personal Portfolio!
